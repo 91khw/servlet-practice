@@ -32,6 +32,7 @@
 		수영<input type="checkbox" name="hobbies" value="swimming">
 		낚시<input type="checkbox" name="hobbies" value="fishing">
 		요리<input type="checkbox" name="hobbies" value="cooking">
+		쓰기<input type="checkbox" name="hobbies" value="writing">
 		<br/><br/>
 		
 		자기소개:
